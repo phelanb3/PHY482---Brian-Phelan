@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 4
+
+No update
+
+* Score: 0/20
+
 ## Assignment 3
 
 Brian, great summaries again. Also, it's completely fine to change the papers as you go along. You start to learn more about the field that you are working in and you begin to decide what is more important to review. I appreciated the note at the end, which I think recognized the feedback that I gave you last week. As you go to form your synthesis across your papers for your homework this week, I'll be looking for you to do exactly what you are suggesting: explaining how the quantum mechanical model gives rise to magnetism and how we might contrast it with the classical decsription. Great work.
