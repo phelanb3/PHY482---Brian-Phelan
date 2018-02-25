@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 6
+
+Brian, I think you have a fairly complete paper here. One thing I would suggest is just some light editing, but beyond that I would also suggest that you try to break up some of the paragraphs into reasonable sections. There's clearly an introduction and background sections, but then it appears you might also have a section where you discuss separate from the general model how different forms of magnetism come about (starting with, "from a theoretical standpoint..."). I think there's still a question of the conclusion for the paper, which the last paragraph doesn't seem to serve that purpose precisely, so you will need to think about how to bring everything together at the end. But overall, I think you are very close to a complete paper. Great work over the last 6 weeks.
+
+* Score: 20/20
+
 ## Assignment 5
 
 Brian, this is a great update. It addresses a lot of the concerns that I had about explaning the quantum model and the underlying assumptions it makes. I'm curious where you want to go frmo here because what you have done is provide a basis of understnading a quantum model of magnetism and offered some connection to temperature dependence. I think to make this a full paper, you will to think about the organizational struture and narrative that you will present and how what you have here fits in as a meat of the paper. I also am curious is some figures (don't have to be original if referenced) might help you strengthen the piece you have written here where you can provide some additional information about the models. Great job.
